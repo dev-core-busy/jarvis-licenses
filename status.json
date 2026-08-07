@@ -1,6 +1,6 @@
 {
  "v": 1,
- "stand": "2026-08-07T09:32:08+00:00",
+ "stand": "2026-08-07T09:36:07+00:00",
  "eintraege": {
   "7d4f8b67e61d96c7a116735677f32216": {
    "status": "active",
@@ -12,7 +12,7 @@
    "status": "active",
    "art": "ENTERPRISE",
    "gueltig_bis": "2027-08-07",
-   "hwid": null
+   "hwid": "H1-4b822a70ee8f-0191027725d3-f383a746b7cc"
   },
   "1ff01b10919d9a2996a4b9aaba6da43f": {
    "status": "active",
@@ -27,5 +27,5 @@
   "gueltig_bis": "2029-08-06",
   "sig_root": "NNSj-5kVwh1fFmtmD_aMtO5w3dD8UhQCaKXQ2e7j2D2NyCdZD3zAeHU9FwE3Xf61TCUzobEORfk3JhCfFqu5Cw"
  },
- "sig": "B1-zSqooCB-RhoDJs17twb2heIpalqn9LyBnHAYt_LX211m7p_Nmc1qeY7aBVdgdTvQUcOSbRVBW_3LhKz9XDw"
+ "sig": "7EFkFxn-kXUaDQ-JaT70zjM1C17EsI56K_Fr7eq2aig0IGvUlKA3lZOIVaBHk5B5BuTH42mFN0hiGybk0Op1Dg"
 }
