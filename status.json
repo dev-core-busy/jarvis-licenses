@@ -1,0 +1,19 @@
+{
+ "v": 1,
+ "stand": "2026-08-07T08:30:38+00:00",
+ "eintraege": {
+  "7d4f8b67e61d96c7a116735677f32216": {
+   "status": "active",
+   "art": "ENTERPRISE",
+   "gueltig_bis": "2027-08-06",
+   "hwid": "H1-a0629121780b-4e00e516b908-86c3c79d1018"
+  }
+ },
+ "zert": {
+  "kid": "iss-20260807",
+  "pub": "8QEWzeMbprMfdRmgHqldpKulPaPlynVYI8A6h3VM-Vo",
+  "gueltig_bis": "2029-08-06",
+  "sig_root": "NNSj-5kVwh1fFmtmD_aMtO5w3dD8UhQCaKXQ2e7j2D2NyCdZD3zAeHU9FwE3Xf61TCUzobEORfk3JhCfFqu5Cw"
+ },
+ "sig": "9fE1Ge6hwMm_DNdLeoznvdL9JrHxEG_UK5ldaJoviqtFrfUqYRbJ-hinmVWjLT7hDU2cQNbgRxO0Ssq6UAwHCQ"
+}
