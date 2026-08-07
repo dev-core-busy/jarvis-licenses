@@ -1,6 +1,6 @@
 {
  "v": 1,
- "stand": "2026-08-07T09:36:07+00:00",
+ "stand": "2026-08-07T20:28:22+00:00",
  "eintraege": {
   "7d4f8b67e61d96c7a116735677f32216": {
    "status": "active",
@@ -27,5 +27,5 @@
   "gueltig_bis": "2029-08-06",
   "sig_root": "NNSj-5kVwh1fFmtmD_aMtO5w3dD8UhQCaKXQ2e7j2D2NyCdZD3zAeHU9FwE3Xf61TCUzobEORfk3JhCfFqu5Cw"
  },
- "sig": "7EFkFxn-kXUaDQ-JaT70zjM1C17EsI56K_Fr7eq2aig0IGvUlKA3lZOIVaBHk5B5BuTH42mFN0hiGybk0Op1Dg"
+ "sig": "5OObmO0QXfxAeu64YQlIArYuI5hAZVc0k9gSWIpBxXhtIJqoejl0Uj2HS7WWe9hb7zacEb6qL8QetfBOt79yAg"
 }
