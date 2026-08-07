@@ -1,12 +1,18 @@
 {
  "v": 1,
- "stand": "2026-08-07T08:36:47+00:00",
+ "stand": "2026-08-07T09:19:07+00:00",
  "eintraege": {
   "7d4f8b67e61d96c7a116735677f32216": {
    "status": "active",
    "art": "ENTERPRISE",
    "gueltig_bis": "",
    "hwid": "H1-a0629121780b-4e00e516b908-86c3c79d1018"
+  },
+  "2f0cf47b17ea3e674a83f034766854ec": {
+   "status": "active",
+   "art": "ENTERPRISE",
+   "gueltig_bis": "2027-08-07",
+   "hwid": null
   }
  },
  "zert": {
@@ -15,5 +21,5 @@
   "gueltig_bis": "2029-08-06",
   "sig_root": "NNSj-5kVwh1fFmtmD_aMtO5w3dD8UhQCaKXQ2e7j2D2NyCdZD3zAeHU9FwE3Xf61TCUzobEORfk3JhCfFqu5Cw"
  },
- "sig": "51_KxCkfAnv4fAoRjDANutrgZGcBRP2a92uE3rZIGkjNM1N-DT1Z5b-92cY4pXndyK_W3D8EEZqRH2OxfTWrCQ"
+ "sig": "1o2El7KNbOYbhGx4v5yPtXSncn5l3JShjY5JCD6ZBy0nNhiU69lwZhwes5iQGm7IGY4UOU9RoQHQXySZRpXCDw"
 }
